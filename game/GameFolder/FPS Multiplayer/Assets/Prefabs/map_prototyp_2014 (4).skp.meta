@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: c8591db757df06a488f3348da9a5b4dc
+timeCreated: 1511705621
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0b821ddc50a368f32a686c5b8ccde64b
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -14.576648, y: 31.847187, z: 13.914787}
+      lookAt: {x: 3.219639, y: 22.434149, z: 14.528436}
+      up: {x: 0.46706235, y: 0.8840777, z: 0.016105155}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Br\xFCcke"
+    100002: "Br\xFCcke 1"
+    100004: Cube
+    100006: Cube 1
+    100008: Cube 2
+    100010: Cube 3
+    100012: Elevator
+    100014: Elevator 1
+    100016: Ground
+    100018: //RootNode
+    100020: Platform big
+    100022: Platform big 1
+    100024: PlatformRamp
+    100026: PlatformRamp 1
+    100028: PowerUp
+    100030: PowerUp 1
+    100032: PowerUp 2
+    100034: PowerUp 3
+    100036: PowerUp 4
+    100038: PowerUp 5
+    100040: PowerUp 6
+    100042: Ring
+    100044: Tower
+    100046: Tower 1
+    100048: Wall big
+    100050: Wall big 1
+    100052: Wall big 2
+    100054: Wall big 3
+    100056: Wall big 4
+    100058: Wall big 5
+    100060: Wall big 6
+    100062: Wall big 7
+    100064: Wall big 8
+    100066: Wall big 9
+    100068: Wall small
+    100070: Wall small 1
+    100072: Wall small 2
+    100074: Wall small 3
+    100076: Wall small 4
+    100078: Wall small 5
+    100080: Wall small 6
+    100082: Wall small 7
+    100084: wall small glass
+    100086: wall small glass 1
+    100088: wall small glass 2
+    100090: wall small glass 3
+    400000: "Br\xFCcke"
+    400002: "Br\xFCcke 1"
+    400004: Cube
+    400006: Cube 1
+    400008: Cube 2
+    400010: Cube 3
+    400012: Elevator
+    400014: Elevator 1
+    400016: Ground
+    400018: //RootNode
+    400020: Platform big
+    400022: Platform big 1
+    400024: PlatformRamp
+    400026: PlatformRamp 1
+    400028: PowerUp
+    400030: PowerUp 1
+    400032: PowerUp 2
+    400034: PowerUp 3
+    400036: PowerUp 4
+    400038: PowerUp 5
+    400040: PowerUp 6
+    400042: Ring
+    400044: Tower
+    400046: Tower 1
+    400048: Wall big
+    400050: Wall big 1
+    400052: Wall big 2
+    400054: Wall big 3
+    400056: Wall big 4
+    400058: Wall big 5
+    400060: Wall big 6
+    400062: Wall big 7
+    400064: Wall big 8
+    400066: Wall big 9
+    400068: Wall small
+    400070: Wall small 1
+    400072: Wall small 2
+    400074: Wall small 3
+    400076: Wall small 4
+    400078: Wall small 5
+    400080: Wall small 6
+    400082: Wall small 7
+    400084: wall small glass
+    400086: wall small glass 1
+    400088: wall small glass 2
+    400090: wall small glass 3
+    2300000: "Br\xFCcke"
+    2300002: "Br\xFCcke 1"
+    2300004: Cube
+    2300006: Cube 1
+    2300008: Cube 2
+    2300010: Cube 3
+    2300012: Elevator
+    2300014: Elevator 1
+    2300016: Ground
+    2300018: Platform big
+    2300020: Platform big 1
+    2300022: PlatformRamp
+    2300024: PlatformRamp 1
+    2300026: PowerUp
+    2300028: PowerUp 1
+    2300030: PowerUp 2
+    2300032: PowerUp 3
+    2300034: PowerUp 4
+    2300036: PowerUp 5
+    2300038: PowerUp 6
+    2300040: Ring
+    2300042: Tower
+    2300044: Tower 1
+    2300046: Wall big
+    2300048: Wall big 1
+    2300050: Wall big 2
+    2300052: Wall big 3
+    2300054: Wall big 4
+    2300056: Wall big 5
+    2300058: Wall big 6
+    2300060: Wall big 7
+    2300062: Wall big 8
+    2300064: Wall big 9
+    2300066: Wall small
+    2300068: Wall small 1
+    2300070: Wall small 2
+    2300072: Wall small 3
+    2300074: Wall small 4
+    2300076: Wall small 5
+    2300078: Wall small 6
+    2300080: Wall small 7
+    2300082: wall small glass
+    2300084: wall small glass 1
+    2300086: wall small glass 2
+    2300088: wall small glass 3
+    3300000: "Br\xFCcke"
+    3300002: "Br\xFCcke 1"
+    3300004: Cube
+    3300006: Cube 1
+    3300008: Cube 2
+    3300010: Cube 3
+    3300012: Elevator
+    3300014: Elevator 1
+    3300016: Ground
+    3300018: Platform big
+    3300020: Platform big 1
+    3300022: PlatformRamp
+    3300024: PlatformRamp 1
+    3300026: PowerUp
+    3300028: PowerUp 1
+    3300030: PowerUp 2
+    3300032: PowerUp 3
+    3300034: PowerUp 4
+    3300036: PowerUp 5
+    3300038: PowerUp 6
+    3300040: Ring
+    3300042: Tower
+    3300044: Tower 1
+    3300046: Wall big
+    3300048: Wall big 1
+    3300050: Wall big 2
+    3300052: Wall big 3
+    3300054: Wall big 4
+    3300056: Wall big 5
+    3300058: Wall big 6
+    3300060: Wall big 7
+    3300062: Wall big 8
+    3300064: Wall big 9
+    3300066: Wall small
+    3300068: Wall small 1
+    3300070: Wall small 2
+    3300072: Wall small 3
+    3300074: Wall small 4
+    3300076: Wall small 5
+    3300078: Wall small 6
+    3300080: Wall small 7
+    3300082: wall small glass
+    3300084: wall small glass 1
+    3300086: wall small glass 2
+    3300088: wall small glass 3
+    4300000: Mesh PlatformRamp
+    4300002: Mesh Tower
+    4300004: Mesh Wall big
+    4300006: Mesh Cube
+    4300008: Mesh Wall small
+    4300010: Mesh PowerUp
+    4300012: Mesh Wall small
+    4300014: "Mesh Br\xFCcke"
+    4300016: Mesh wall small glass
+    4300018: Mesh Ground
+    4300020: Mesh Platform big
+    4300022: Mesh Elevator
+    4300024: Mesh Ring
+    6400000: "Br\xFCcke"
+    6400002: "Br\xFCcke 1"
+    6400004: Cube
+    6400006: Cube 1
+    6400008: Cube 2
+    6400010: Cube 3
+    6400012: Elevator
+    6400014: Elevator 1
+    6400016: Ground
+    6400018: Platform big
+    6400020: Platform big 1
+    6400022: PlatformRamp
+    6400024: PlatformRamp 1
+    6400026: PowerUp
+    6400028: PowerUp 1
+    6400030: PowerUp 2
+    6400032: PowerUp 3
+    6400034: PowerUp 4
+    6400036: PowerUp 5
+    6400038: PowerUp 6
+    6400040: Ring
+    6400042: Tower
+    6400044: Tower 1
+    6400046: Wall big
+    6400048: Wall big 1
+    6400050: Wall big 2
+    6400052: Wall big 3
+    6400054: Wall big 4
+    6400056: Wall big 5
+    6400058: Wall big 6
+    6400060: Wall big 7
+    6400062: Wall big 8
+    6400064: Wall big 9
+    6400066: Wall small
+    6400068: Wall small 1
+    6400070: Wall small 2
+    6400072: Wall small 3
+    6400074: Wall small 4
+    6400076: Wall small 5
+    6400078: Wall small 6
+    6400080: Wall small 7
+    6400082: wall small glass
+    6400084: wall small glass 1
+    6400086: wall small glass 2
+    6400088: wall small glass 3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color A06
+    second: {fileID: 2100000, guid: e2e2fe862713acb4b8ffa35f5754c2d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color C05
+    second: {fileID: 2100000, guid: 52c67da1d1bc33d48b41f5bf92151001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color D05
+    second: {fileID: 2100000, guid: 95dfd5a56cf649648998f840f47e10f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color I06
+    second: {fileID: 2100000, guid: b01b038e02f1ece4c8e522c7deb1179b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color J05
+    second: {fileID: 2100000, guid: 2e0e7a93b80fbd845b4d690494ecfb43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M00
+    second: {fileID: 2100000, guid: 0252878fae6af5140a8766dbca4ab8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M01
+    second: {fileID: 2100000, guid: e22061ee40271af44843233233248ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M03
+    second: {fileID: 2100000, guid: 9f07b7a705dc4bf4388e148604f40f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M04
+    second: {fileID: 2100000, guid: e94fc16e42f7cb24fabb812a584c45ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M05
+    second: {fileID: 2100000, guid: 2431effe724ec3444aebe4a9a77a4cbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M06
+    second: {fileID: 2100000, guid: bce55ba5729ec01438f8a9533aa55b02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M07
+    second: {fileID: 2100000, guid: 72728ece4c7ad494d94e3bae30e1dc2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent Glass Blue
+    second: {fileID: 2100000, guid: c5962d6f9c6cf9743bdd1a5e35c89d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: f446e6b532e8b074e838ac786a6a5385, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
